@@ -1,0 +1,27 @@
+    body {
+      font-family: monospace;
+    }
+ 
+     h1{
+        color: black;
+       display: block;
+       text-align: center;
+       text-decoration: line-through;
+
+    }
+    .Datetime{
+      background: linear-gradient(red, orange, yellow);
+       border: 5px dashed darkblue;
+       text-align: center;
+       padding: 30px 50px;
+       border-radius: 12px;
+    }
+    .clock {
+      color: aqua;
+      font-size: 60px;
+      box-shadow: 0 0 20px blueviolet;
+    }
+    #date{
+      color: darkblue;
+      font-size: 22px;
+    }
